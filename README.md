@@ -14,15 +14,20 @@
 
 ### SETUP
 
-1. Scan the QR and copy it
-    <br>
-<a href='https://hermit.adithyan.xyz/qr' target="_blank"><img alt='SCAN QR' src='https://img.shields.io/badge/Scan_qr-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+***Scan Qr .!***
+```
+https://hermit.adithyan.xyz/md?id=12S7xPdZP7
+```
 
 2. Now Deploy
     <br>
 <a href='https://hermit.adithyan.xyz/deploy-heroku' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
-3. **[» Mugenius](https://studio.mogenius.com/studio/cloud-space/cloud-space-overview)**
+***Deploy Mugenius .!***
+```
+https://studio.mogenius.com/studio/cloud-space/cloud-space-overview
+```
+
 
 
 ***Queen Amdi Deploy [`Youtube Video`](https://youtu.be/Yr0Ba_DPir4?si=2sNtHkIt677UfMc3).***
